@@ -1,8 +1,9 @@
 {
     "version": 3,
-    "mappings": "AAGA,AAAA,QAAQ,CAAA;EACJ,KAAK,EAJE,OAAO;EAKd,gBAAgB,EAJR,OAAO;CAKlB",
+    "mappings": "AAEA,AAAA,QAAQ,CAAA;EACJ,KAAK,ECAK,OAAO;EDCjB,gBAAgB,ECFJ,OAAO;CDGtB",
     "sources": [
-        "style.scss"
+        "style.scss",
+        "_colorPallete.scss"
     ],
     "names": [],
     "file": "style.css"

@@ -1,7 +1,6 @@
-$blueColor:#00334e;
-$testColor: #ee6f57;
+@import "colorPallete";
 
 .heading{
-    color: $blueColor;
-    background-color: $testColor;
+    color: $orangeColor;
+    background-color: $darkBlueColor;
 }
